@@ -1,5 +1,5 @@
 {
-  "iron.nvim": { "branch": "master", "commit": "3f6c27bcae54e82f146002f69eceaa65fcfb1b6f" },
   "lazy.nvim": { "branch": "main", "commit": "aedcd79811d491b60d0a6577a9c1701063c2a609" },
-  "nvim-treesitter": { "branch": "master", "commit": "f197a15b0d1e8d555263af20add51450e5aaa1f0" }
+  "nvim-treesitter": { "branch": "master", "commit": "f197a15b0d1e8d555263af20add51450e5aaa1f0" },
+  "overseer.nvim": { "branch": "master", "commit": "8e701da79f3fd7c44c3e8ad1aed6512aedc50191" }
 }
